@@ -10,4 +10,5 @@
 .detail:hover{
     background-color: aquamarine;
     cursor: pointer;
+    list-style: lower-roman;
 }
